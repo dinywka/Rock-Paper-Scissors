@@ -9,7 +9,12 @@ h1 {
     margin-top: 20px;
 }
 
-#playerSelection {
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#choice.div {
     height: 100px;
     width: 100px;
     border: solid 2px black;
@@ -17,13 +22,6 @@ h1 {
     margin: 50px;
 }
 
-#computerSelection {
-    height: 100px;
-    width: 100px;
-    border: solid 2px black;
-    border-radius: 50px;
-    margin: 50px;
-}
 
 #choice {
     margin: auto;
